@@ -1,0 +1,153 @@
+Frames in Mem: 4, 
+Hits: 0, 
+Misses: 1, 
+
+Pages in mem :        11                           
+R            :         0        0        0        0
+
+Frames in Mem: 4, 
+Hits: 0, 
+Misses: 2, 
+
+Pages in mem :        11        2                  
+R            :         0        0        0        0
+
+Frames in Mem: 4, 
+Hits: 0, 
+Misses: 3, 
+
+Pages in mem :        11        2        4         
+R            :         0        0        0        0
+
+Frames in Mem: 4, 
+Hits: 0, 
+Misses: 4, 
+
+Pages in mem :        11        2        4       10
+R            :         0        0        0        0
+
+To swap: page index: 0, page: 11
+Frames in Mem: 4, 
+Hits: 0, 
+Misses: 5, 
+
+Pages in mem :        14        2        4       10
+R            :         1        0        0        0
+
+Frames in Mem: 4, 
+Hits: 1, 
+Misses: 5, 
+
+Pages in mem :        14        2        4       10
+R            :         1        0        0        0
+
+To swap: page index: 1, page: 2
+Frames in Mem: 4, 
+Hits: 1, 
+Misses: 6, 
+
+Pages in mem :        14        3        4       10
+R            :         0        1        0        0
+
+Frames in Mem: 4, 
+Hits: 2, 
+Misses: 6, 
+
+Pages in mem :        14        3        4       10
+R            :         0        1        0        0
+
+To swap: page index: 2, page: 4
+Frames in Mem: 4, 
+Hits: 2, 
+Misses: 7, 
+
+Pages in mem :        14        3        7       10
+R            :         0        0        1        0
+
+Frames in Mem: 4, 
+Hits: 3, 
+Misses: 7, 
+
+Pages in mem :        14        3        7       10
+R            :         0        0        1        0
+
+To swap: page index: 3, page: 10
+Frames in Mem: 4, 
+Hits: 3, 
+Misses: 8, 
+
+Pages in mem :        14        3        7        5
+R            :         0        0        0        1
+
+Frames in Mem: 4, 
+Hits: 4, 
+Misses: 8, 
+
+Pages in mem :        14        3        7        5
+R            :         0        0        0        1
+
+To swap: page index: 0, page: 14
+Frames in Mem: 4, 
+Hits: 4, 
+Misses: 9, 
+
+Pages in mem :         1        3        7        5
+R            :         1        0        0        0
+
+To swap: page index: 1, page: 3
+Frames in Mem: 4, 
+Hits: 4, 
+Misses: 10, 
+
+Pages in mem :         1       12        7        5
+R            :         0        1        0        0
+
+Frames in Mem: 4, 
+Hits: 5, 
+Misses: 10, 
+
+Pages in mem :         1       12        7        5
+R            :         0        1        0        0
+
+To swap: page index: 2, page: 7
+Frames in Mem: 4, 
+Hits: 5, 
+Misses: 11, 
+
+Pages in mem :         1       12       11        5
+R            :         0        0        1        0
+
+To swap: page index: 3, page: 5
+Frames in Mem: 4, 
+Hits: 5, 
+Misses: 12, 
+
+Pages in mem :         1       12       11       10
+R            :         0        0        0        1
+
+To swap: page index: 0, page: 1
+Frames in Mem: 4, 
+Hits: 5, 
+Misses: 13, 
+
+Pages in mem :         2       12       11       10
+R            :         1        0        0        0
+
+Frames in Mem: 4, 
+Hits: 6, 
+Misses: 13, 
+
+Pages in mem :         2       12       11       10
+R            :         1        0        0        0
+
+To swap: page index: 1, page: 12
+Frames in Mem: 4, 
+Hits: 6, 
+Misses: 14, 
+
+Pages in mem :         2        6       11       10
+R            :         0        1        0        0
+
+Frames in Mem: 4, 
+Hits: 6, 
+Misses: 14, 
